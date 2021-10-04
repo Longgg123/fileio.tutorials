@@ -1,4 +1,5 @@
-import time
+love anniversary :
+    8/12/2016-8/12/2021
 password = "pass"
 passw = ""
 while passw != password:
